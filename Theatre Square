@@ -1,5 +1,4 @@
-Reference : https://codeforces.com/problemset/problem/1/A
-
+//Reference : https://codeforces.com/problemset/problem/1/A
 //这是纯数学解法，重点在于cmath函数的灵活运用。
 
 #include <iostream>
