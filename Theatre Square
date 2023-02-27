@@ -1,6 +1,6 @@
 Reference : https://codeforces.com/problemset/problem/1/A
 
-这是例子
+//这是纯数学解法，重点在于cmath函数的灵活运用。
 
 #include <iostream>
 #include <cmath>
